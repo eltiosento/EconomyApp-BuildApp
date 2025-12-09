@@ -73,7 +73,7 @@ Esto iniciará:
 
 Cuando los contenedores estén activos:
 
-- **API (Backend)**: *(Añadir aquí el puerto donde se expone la API)*  
+- **API (Backend)**: Desde http://localhost:9090 se accede a la documentación de la Api, mediante la plataforma Swagger.
 - **Web (Frontend)**: Accede a la aplicación mediante la IP configurada en el paso 3.
 
 ## 📦 Código Fuente
