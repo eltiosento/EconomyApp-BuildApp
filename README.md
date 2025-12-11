@@ -110,3 +110,15 @@ Si deseas revisar o modificar el código fuente de los componentes individuales,
 |-----------|-------------|
 | **API (Java/Spring Boot)** | https://github.com/eltiosento/EconomyApp-Api |
 | **Web (Flutter)** | https://github.com/eltiosento/EconomyApp-Web |
+
+---
+
+## 👨‍💻 Autor
+
+Proyecto desarrollado por **Vicent Roselló** como proyecto de final de ciclo de DAW. Aplicación educativa para la gestión económica familiar.
+
+---
+
+## 📄 Licencia
+
+Uso personal y educativo.
