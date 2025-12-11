@@ -63,8 +63,9 @@ location /api/ {
         ...
     }
 ```
+
 > [!WARNING]
-> Asegurate que después de poner la ip:puerto_api tengas /api/ para completar la url como el ejemplo: http://192.168.1.16:9090/api/;
+> Asegurate que después de poner: *ip:puerto_api* tengas /api/ para completar la url como el ejemplo: http://192.168.1.16:9090/api/;
 
 Esto permitirá que el frontend acceda correctamente a la API.
 
