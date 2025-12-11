@@ -97,8 +97,8 @@ Se podrá acceder a los distintos servicios mediante:
 - **API (Backend)**: Desde http://localhost:9090 se accede a la documentación de la Api, mediante la plataforma Swagger.
 - **Web (Frontend)**:  Accede a la aplicación mediante http://localhost:8080
 - Para acceder a la aplicación web se ha dejado como predeterminado un usuario administrador con las credenciales:
--- Usuario: Admin
--- Contraseña: admin123
+    - Usuario: Admin
+    - Contraseña: admin123
 - Se recomienda una vez acceda a la aplicacnión, desde la sección *Perfil de usuario* cambiar los datos.
 
 ## 📦 Código Fuente
